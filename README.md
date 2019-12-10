@@ -10,6 +10,7 @@ Whoever uses the FEWEST lines of code, wins. That is all. Layout of the page wil
  The HTML/CSS file is set up for you, and the single image used on the website is also included in this repo.
  Submissions are accepted until, but not through Jan 1, 2020.
  I haven't sorted out a submission method. Just rocket chat me the URL for your github repository. 
+ If there are any questions, please let me know. I will make a notification if any ammendments to this document are made. 
   
   ## Model Site
   This is the site to be reconstructed:  shorturl.at/wFU09
